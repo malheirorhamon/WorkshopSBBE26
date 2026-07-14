@@ -1,0 +1,26 @@
+
+Attaching package: ‘ggpubr’
+
+The following object is masked from ‘package:cowplot’:
+
+    get_legend
+
+Registering fonts with R
+Loading required package: sysfonts
+Loading required package: showtextdb
+
+Attaching package: ‘showtextdb’
+
+The following object is masked from ‘package:extrafont’:
+
+    font_install
+
+Warning message:
+`aes_string()` was deprecated in ggplot2 3.0.0.
+ℹ Please use tidy evaluation idioms with `aes()`.
+ℹ See also `vignette("ggplot2-in-packages")` for more information. 
+[1] 21.27183
+[1] 15.75975
+[1] 10.93043
+There were 37 warnings (use warnings() to see them)
+There were 37 warnings (use warnings() to see them)

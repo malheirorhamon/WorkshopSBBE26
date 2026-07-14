@@ -1,0 +1,28 @@
+PLINK v1.9.0-b.8 64-bit (22 Oct 2024)
+Options in effect:
+  --allow-extra-chr
+  --double-id
+  --make-bed
+  --out ./tutorial
+  --vcf ../tutorial_outfiles/tutorial.vcf
+
+Hostname: r1i0n4.npad.internal
+Working directory: /home/rdcmalheiro/tutorial_ipyrad/SBBE26_PopGen
+Start time: Tue Jul 14 15:07:03 2026
+
+Random number seed: 1784052423
+128791 MB RAM detected; reserving 64395 MB for main workspace.
+--vcf: ./tutorial-temporary.bed + ./tutorial-temporary.bim +
+./tutorial-temporary.fam written.
+4310 variants loaded from .bim file.
+12 people (0 males, 0 females, 12 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to ./tutorial.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 12 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.997776.
+4310 variants and 12 people pass filters and QC.
+Note: No phenotypes present.
+--make-bed to ./tutorial.bed + ./tutorial.bim + ./tutorial.fam ... done.
+
+End time: Tue Jul 14 15:07:03 2026

@@ -1,0 +1,17 @@
+
+Attaching package: ‘ggpubr’
+
+The following object is masked from ‘package:cowplot’:
+
+    get_legend
+
+Registering fonts with R
+Loading required package: sysfonts
+Loading required package: showtextdb
+
+Attaching package: ‘showtextdb’
+
+The following object is masked from ‘package:extrafont’:
+
+    font_install
+
